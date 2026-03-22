@@ -4,6 +4,7 @@
 -----------
 
 ## 🛡️ License
-       This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
+       This project is licensed under the MIT License you are free to use,modify, and share this project with proper atribution.
 
-## 🌟 About Me
+👩‍🎓 About Me
+Hi there! I'm ManjuMadhesh,Electronics And Communication Engineering (ECE) graduate,2025 pass-out ,actively seeking entry level job opportunities.
